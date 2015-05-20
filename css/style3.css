@@ -1,0 +1,18 @@
+.btnLoginFacebook {
+        background : url('../img/facebook_30.png');
+        display: inline-block;
+        width:30px;
+        height:30px;
+    }
+
+    .btnLoginGoogle {
+        background : url('../img/google_30.png');
+        display: inline-block;
+        width:30px;
+        height:30px;
+    }
+
+    .external-left{
+        position:relative;
+        top:22px;
+    }
